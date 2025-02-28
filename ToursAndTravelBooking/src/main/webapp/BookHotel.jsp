@@ -31,7 +31,7 @@
     </div>
 
     <div id="backbutton">
-        <a href="userhotel" id="back">Back>></a>
+        <a href="UserHotel.jsp" id="back">Back>></a>
 
     </div>
     
